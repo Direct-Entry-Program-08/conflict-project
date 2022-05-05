@@ -1,6 +1,6 @@
 First line
-Second line
+2 Second line
 Uppa Bro
 sajith dilshan
 
-6
+Both did same task
